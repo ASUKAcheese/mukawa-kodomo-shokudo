@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asukacheese.github.io/mukawa-kodomo-shokudo/sitemap.xml
